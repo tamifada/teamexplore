@@ -2,8 +2,9 @@
 p { color: black; }
 body {
     color: rgb(65,75,86);
-    font-family: Impact,'Arial Narrow Bold', sans-serif;
-    margin: 0px }
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0px 
+}
 
     body {
         color: rgb(31, 69, 116);
