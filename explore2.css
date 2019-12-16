@@ -12,10 +12,6 @@ body {
     body {
         color: rgb(49,58,69);
         }
-        div {
-        max-height: 100vh;
-        width: 100vw;
-        }
 
         h1, h2 {
             text-align: center;
